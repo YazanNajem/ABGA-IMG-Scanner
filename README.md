@@ -18,7 +18,7 @@ A simple Img Scanner application using React, Express & Tesseract. Supported pac
         $ cd ABGA Assignment Scanner
         $ cd server-scanner
         $ npm i
-        $ nodemon app
+        $ nodemon server
         ```
         NOTE: Install nodemon.
         It will run @ `localhost:5000`.
