@@ -1,6 +1,6 @@
 # Img Scanner App Using React, Express & Tesseract
 
-A simple Img Scanner application using React, Express & Tesseract. Supported packages: Semantic UI React,  React Webcam. It can recognize text/chars from captured photo or uploaded image. 
+An Image Scanner Application Using React, Express & Tesseract. The Web App Supported packages: Semantic UI React,  React Webcam. This can recognize text/chars from captured photo or uploaded image. 
 
 #
 - To try:
