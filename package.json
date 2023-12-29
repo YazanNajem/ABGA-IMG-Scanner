@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "semantic-ui-css": "^2.5.0",
+    "express-fileupload": "^1.4.3",
+    "semantic-ui-react": "^2.1.5",
+    "sharp": "^0.33.1",
+    "tesseract.js": "^5.0.4"
+  }
+}
